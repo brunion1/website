@@ -1,0 +1,76 @@
+{
+	"work" : [
+		{
+			"employer" : "Walmart ISD",
+			"dates" : "",
+			"title" : "Programmer Analyst",
+			"location" : "Bentonville, Arkansas",
+			"description" : "During the last nine months of my stint in the Walmart ISD IT Rotational Program I worked in the fulfillment pillar as a JavaScript developer/Front-end developer. In December, this position formally transferred to a Programmer Analyst role. In this role, I have worked as a UI Lead/Design Lead utilizing various MVC JavaScript frameworks to deliver scalable, efficient fulfillment applications that can service Walmart's uniquely diverse portfolio of brands around the globe. A few of the technologies I've worked with include HTML5/CSS3, JavaScript's Backbone and Angular frameworks, the Adobe Creative Suite and Balsalmiq for design mockups."
+		},
+		{
+			"employer" : "Walmart ISD",
+			"location" : "Bentonville, Arkansas",
+			"dates" : "",
+			"title" : "IT Rotational Analyst",
+			"description" : "The IT Rotational Program at Walmart is an 18 month long crash-course in all things Walmart ISD. For the first 9 months, I spent time in Security, Field Support, and Quality Assurance before settling in the in-store fulfillment team in the Application Development environment. Each pillar rotation provides invaluable insight into the inner workings of a large information systems division and helps to develop a broader perspective on the retail industry as a whole."
+		},
+		{
+			"employer" : "Tax Centers of America",
+			"location" : "Russellville, Arkansas",
+			"title" : "Web Platform Programmer",
+			"dates" : "",
+			"description" : "My responsibilities at TCoA primarily consisted of developing state and federal tax forms and the database tables that they would utilize. I spent most of my development work utilizing PHP, MySQL, and HTML. Forms I built for TCoA included the 1040-ES, the RRB-1099, and tax forms for the states of South Carolina and Maine."
+		}
+		,
+		{
+			"employer" : "State Farm",
+			"title" : "Agency Intern",
+			"location" : "Russellville, Arkansas",
+			"dates" : "",
+			"description" : "My responsibilities at State Farm included scheduling policy reviews, contacting policyholders about changes to their policies, limited work with social media marketing, and managing the IT in the office."
+		}
+		,
+		{
+			"employer" : "American Eagle",
+			"title" : "Sales Representative",
+			"location" : "Fort Smith, Arkansas",
+			"dates" : "",
+			"description" : ""
+		}
+	],
+	"skills" : [
+		{
+			"name" : "JavaScript",
+			"explanation" : "Three years of progressively advanced JavaScript development in multiple frameworks for an array of personal and professional projects and applications.",
+			"projects" : [
+				{
+					"name" : "Personal Site",
+					"link" : ""
+				},
+				{
+					"name" : "eCommerce Fulfillment Team",
+					"link" : ""
+				}
+			]
+		},
+		{
+			"name" : "CSS3",
+			"explanation" : "Three years of progressively advanced CSS/CSS3 for multiple professional and personal projects.",
+			"projects" : []
+		}
+	],
+	"education" : [
+		{
+			"school" : "Arkansas Tech University",
+			"location" : "Russellville, Arkansas",
+			"gradYear" : "2013",
+			"degree" : "Bachelor's of Science in Computer Information Systems"	
+		},
+		{
+			"school" : "Lavaca High School",
+			"location" : "Lavaca, Arkansas",
+			"gradYear" : "2008",
+			"degree" : ""
+		}
+	]
+}

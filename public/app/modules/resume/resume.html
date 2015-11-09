@@ -1,0 +1,43 @@
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+				Skills area
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 scrollable">
+			<div class="resumeHeader">Work</div>
+			<div id="jobs" ng-repeat="job in resume.work">
+				<div class="title">
+					{{job.title}}
+				</div>
+				<div class="employer">
+					{{job.employer}}
+				</div>
+				<div class="title">
+					{{job.title}}
+				</div>
+				<div class="location">
+					{{job.location}}
+				</div>
+				<div class="description">
+					{{job.description}}
+				</div>
+			</div>
+			<div class="resumeHeader">Work</div>
+			<div id="skills" ng-repeat="skill in resume.skills">
+				<div>
+					{{skill.name}}
+				</div>
+				<div>
+					{{skill.explanation}}
+				</div>
+			</div>
+			<div class="resumeHeader">School</div>
+				<div id="skills" ng-repeat="school in resume.education">
+				<div>
+					{{school.school}}
+				</div>
+				<div>
+					{{skill.degree}}
+				</div>
+			</div>
+		</div>
+	</div>

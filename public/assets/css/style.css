@@ -1,0 +1,32 @@
+body {
+  background-color: white; }
+
+ul > li {
+  display: inline-block; }
+
+a, a:link, a:visited {
+  color: #444 !important; }
+
+a:active {
+  font-style: underline; }
+
+a:hover {
+  text-decoration: none !important;
+  font-weight: bold; }
+
+/*up to max width of 768pixels */
+/*only if min width is 768 pixels*/
+@media screen and (min-width: 768px) {
+  .links {
+    background-color: blue; } }
+
+.view {
+  height: 100%;
+  overflow: hideen; }
+
+/*
+for small stuff i'll need to center them and space them out
+
+for larger it'll float right
+
+*/

@@ -1,0 +1,20 @@
+{
+	"questions" : [
+	{
+		"question" : "Have you tried running it on a Raspberry Pi?",
+		"answer" : "I have, thanks for asking! This app is certified to run on a potato."	
+	},
+	{
+		"question" : "What's the point of all this anyways?",
+		"answer" : "Well, Wix won't be around forever. Someone's gotta know how to do the cool stuff. Plus I learned a ton."
+	},
+	{
+		"question" : "So you're like...a Web Developer?",
+		"answer" : "No. I like building cool stuff, and the web technology suite is what I'm most familiar with. I'd love to do native C++ again, learn Arduino, etc."
+	},
+	{
+		"question" : "Do you loathe CoffeeScript?",
+		"answer" : "Yes. Call this 26 year old old-fashioned, but it's unneccesary."
+	}
+]
+}
